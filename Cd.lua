@@ -17,7 +17,7 @@ end
 return tables
 end
 getfenv().grav = workspace.Gravity
-local library = loadstring(game:HttpsGet("https://pastebin.com/raw/dBBZ4qg2"))()
+local library = loadstring(game:HttpsGet("https://raw.githubusercontent.com/Brope57/Cd--2/refs/heads/main/Cd2.lua"))()
 local example = library:CreateWindow({
   text = "CDID"
 })
